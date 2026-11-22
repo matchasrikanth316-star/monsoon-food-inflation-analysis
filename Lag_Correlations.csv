@@ -1,0 +1,22 @@
+Food_Category,Lag_Months,Observations,Correlation
+"Cereals and Products",0,480,0.0624
+"Cereals and Products",1,480,0.0537
+"Cereals and Products",2,480,0.0304
+"Cereals and Products",3,480,0.0516
+"Cereals and Products",4,480,-0.0177
+"Cereals and Products",5,480,-0.0478
+"Cereals and Products",6,480,-0.0613
+"Pulses and Products",0,480,-0.0221
+"Pulses and Products",1,480,-0.0179
+"Pulses and Products",2,480,-0.0147
+"Pulses and Products",3,480,-0.0305
+"Pulses and Products",4,480,-0.027
+"Pulses and Products",5,480,-0.0145
+"Pulses and Products",6,480,-0.0085
+Vegetables,0,480,0.1395
+Vegetables,1,480,0.1258
+Vegetables,2,480,0.1378
+Vegetables,3,480,0.1183
+Vegetables,4,480,0.0278
+Vegetables,5,480,0.0423
+Vegetables,6,480,0.0191
